@@ -1,0 +1,22 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto en node",
+  "main": "index.js",
+  "scripts": {
+    "x" : " echo ' nuevo script '",
+    "start" : "node index.js",
+    "test" : " echo ' Aqui van los test'",
+    "jonathan" : " echo ' Hola Jonathan'"
+  },
+  "keywords": [
+    "kodemia",
+    "test",
+    "firts"
+  ],
+  "author": "@J0nRey",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
